@@ -34,3 +34,4 @@ function main() {
     let newArr = arr.reverse();
     console.log(newArr.join(' '))
 }
+
